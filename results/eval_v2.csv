@@ -1,0 +1,174 @@
+query_id,query,category,answer,word_count,latency_ms,keyword_accuracy,relevance_score,relevance_reason,model_version
+1,What is the return policy?,policy,"The return policy includes a 30-day money-back guarantee on all paid plans. If you are not satisfied within 30 days of your first payment, you can request a full refund by contacting billing@company.com. Refunds will be processed back to the original payment method within 5 to 10 business days.
+
+After the initial 30 days, refunds are not available for monthly plans. However, annual plans may be eligible for a prorated refund within 60 days of payment, and you would need to contact support to request this.
+
+It's important to note that receipts are not required for refund requests; your account email is sufficient to locate your transaction.",107,3370,1.0,5,"The answer provides a comprehensive and clear explanation of the return policy, including details about the 30-day money-back guarantee, refund processes, and eligibility for annual plans.",v2
+2,How do I reset my password?,how-to,"To reset your password for your Figma account, follow these steps:
+
+1. **Log out of your Figma account.**
+2. **Visit the Figma website** and click on **Log in** in the top-right corner.
+3. Click the **Reset password** link.
+4. Follow the on-screen instructions to request a password reset email.
+5. Check your email for the password reset email and click the link provided in that email.
+6. Figma will prompt you to enter a new password. Enter your new password.
+7. When you next log in, you can use your email address and the new password you just set.
+
+If you signed up using Google SSO, you will need to remove Google SSO first to set a new password.",119,3655,1.0,5,"The answer provides a clear, step-by-step guide on how to reset a Figma password, including important details about Google SSO.",v2
+3,What is the difference between plan A and plan B?,comparison,"The context provided does not specify what ""plan A"" and ""plan B"" refer to. However, it does mention three plans offered by Zapier: Starter, Pro, and Enterprise. 
+
+- The **Starter plan** is free and includes up to 3 users, 5GB of cloud storage, and email support, but does not include API access or advanced integrations.
+
+If you can clarify what ""plan A"" and ""plan B"" refer to, I can provide a more specific comparison. Otherwise, based on the available information, I can only summarize the features of the Starter plan.",90,2482,0.75,2,"The answer does not address the question about the differences between plan A and plan B, and instead provides unrelated information about a different set of plans.",v2
+4,Can I use the product offline?,technical,"Yes, the desktop app supports limited offline access. You can view and edit previously synced content without an internet connection. Any changes you make while offline will automatically sync when you reconnect to the internet.",35,1260,0.75,5,The answer directly addresses the question about offline use and provides clear details about the functionality.,v2
+5,How do I contact support?,contact,"You can contact support in several ways:
+
+1. **Phone Support**: Available only for Enterprise plan customers. You will receive a dedicated support number in your welcome email.
+
+2. **Live Chat**: Accessible inside the app during support hours (Monday through Friday, 9am to 6pm Eastern Time). Click the chat icon in the bottom right corner to start a conversation with a support agent.
+
+3. **Email Support**: Available 24/7 at support@company.com. You can expect a response within one business day. For urgent billing issues, make sure to include ""URGENT"" in the subject line.
+
+4. **Help Center**: You can browse our help center at help.company.com for instant answers to common questions.
+
+5. **Community Forum**: Visit community.company.com for peer support at any time.
+
+If you need a member of the support team to respond to you, you can also send a note to feedback@slack.com.",140,4014,1.0,5,"The answer provides multiple clear and detailed methods for contacting support, covering various options and their availability.",v2
+6,Is there a free trial available?,pricing,"Yes, there is a 14-day free trial available for the Pro plan, and no credit card is required to start. After the trial ends, you will be prompted to enter payment details to continue using the Pro plan. If you do not upgrade, your account will automatically move to the free Starter plan.",53,2244,0.75,5,"The answer clearly states the availability of a free trial, its duration, and the conditions after the trial ends.",v2
+7,How do I cancel my subscription?,policy,"To cancel your subscription, follow these steps:
+
+1. Go to **Settings**.
+2. Select **Billing**.
+3. Click on **Cancel Plan**.
+
+Your account will remain active until the end of the current billing period, and you will not be charged again after cancellation. Please note that you cannot pause a subscription, but if you need to reduce costs temporarily, you can downgrade to the Starter free plan and upgrade again later. Your data will be retained for 90 days after cancellation.",79,2651,0.75,5,"The answer provides clear, step-by-step instructions for canceling the subscription and includes important information about account status and data retention.",v2
+8,What file formats are supported?,technical,"The supported file formats for importing are:
+
+- CSV (.csv)
+- Excel (.xlsx)
+- PDF (.pdf)
+- Plain text files
+- HTML (.html)
+- ZIP (.zip)
+
+Additionally, you can import data from various apps such as Confluence, Asana, Evernote, and Trello. You can export your data at any time in CSV or JSON format.",54,2011,1.0,5,"The answer provides a comprehensive list of supported file formats for both importing and exporting, directly addressing the question.",v2
+9,How many users can share one account?,pricing,"The number of users that can share one account depends on the plan:
+
+- The **Starter plan** supports up to **3 users**.
+- The **Pro plan** supports **unlimited users**.
+- The **Enterprise plan** also supports **unlimited users** with advanced permission controls.
+
+So, if you are on the Starter plan, a maximum of 3 users can share the account, while the Pro and Enterprise plans allow for unlimited users.",68,2467,0.5,5,"The answer clearly outlines the user limits for different account plans, directly addressing the question.",v2
+10,Where is my data stored?,technical,"The storage location of your data depends on the region you select when creating your workspace. You have the option to choose between the United States and the European Union for your data storage. 
+
+However, it's important to note that certain information is always stored in the United States, regardless of your selected region. This includes:
+- Information about the workspace
+- All user account information
+- User-created API keys used for authentication
+
+Additionally, notification emails sent to workspace users are stored in the U.S. for 7 days by the email sending partner. 
+
+Once you select a data region during workspace creation, that choice is permanent and cannot be changed later.",111,2711,0.25,5,"The answer provides a clear and comprehensive explanation of where data is stored, including specific details about regional options and exceptions.",v2
+11,Can I return an item without a receipt?,policy,"Receipts are not required for refund requests. You can return an item by simply providing your account email, which will allow us to locate your transaction.",26,944,0.5,5,The answer directly addresses the question by explaining the return process without a receipt.,v2
+12,How long does it take to process a refund?,policy,Refunds are processed and returned to the original payment method within 5 to 10 business days after your request is approved.,21,910,0.5,5,"The answer provides a clear and complete timeframe for processing refunds, directly addressing the question.",v2
+13,I forgot my password what should I do?,how-to,"If you forgot your password for your Figma account, follow these steps to reset it:
+
+1. Log out of your Figma account.
+2. Visit the Figma website and click on ""Log in"" in the top-right corner.
+3. Click the ""Reset password"" link.
+4. Follow the on-screen instructions to request a password reset email.
+5. Check your email for the password reset link and click on it.
+6. Figma will prompt you to enter a new password. Create a new password.
+7. When you next log in, you can use your Gmail address and the new password you just set.
+
+If you signed up using Google SSO, you will need to remove Google SSO first to set a new password. In that case, follow the steps to request a password reset, and then you can change your email address and password in your account settings after logging in with the new password.",151,3592,1.0,5,"The answer provides a clear and complete step-by-step guide for resetting a Figma password, addressing both standard and Google SSO users.",v2
+14,How can I change my account email?,how-to,"To change your account email in Figma, follow these steps:
+
+1. **Log in to your Figma account.**
+2. **Open the file browser** and click your profile in the top-left corner to open the account menu.
+3. **Select Settings** to open the settings modal.
+4. **Go to the Account tab** to update your details.
+5. **Click Change email** underneath your current email address.
+6. **Enter your new email address** and follow any additional prompts.
+7. **Click Save** to apply your changes.
+
+**Important Note:** If you signed up using Google SSO (Single Sign-On), your email address is managed by Google, and you cannot change it directly in Figma. In that case, you would need to remove Google SSO by requesting a password reset and setting a new password. After that, you can log in with your email and new password, and then change your email address in Figma.
+
+If you no longer have access to the email address you used to create your Figma account, you will need to contact Figma Support for assistance.",172,4924,1.0,5,"The answer provides a clear, step-by-step guide on how to change the account email in Figma, including important notes for users with Google SSO.",v2
+15,Which plan is best for small teams?,comparison,"For small teams, the **Pro plan** is the best option. It supports unlimited users, which is beneficial as your team grows, and includes 100GB of cloud storage, live chat support, API access, and priority email support. The Pro plan costs $12 per user per month (or $10 per user per month if billed annually). Additionally, there is a 14-day free trial available, allowing you to test the features before committing. 
+
+While the **Starter plan** is free and supports up to 3 users, it has limitations such as only 5GB of cloud storage and no API access or advanced integrations, which may not be sufficient for a growing small team.",109,2264,1.0,5,"The answer clearly identifies the best plan for small teams, provides detailed features and pricing, and compares it effectively with an alternative option.",v2
+16,Do plans include cloud storage?,comparison,"Yes, the plans include cloud storage. Here are the details:
+
+- **Starter Plan**: Includes 5GB of cloud storage.
+- **Pro Plan**: Includes 100GB of cloud storage.
+- **Enterprise Plan**: Includes unlimited storage.
+
+If you have any further questions about the plans or storage options, feel free to ask!",48,3956,0.75,5,The answer directly addresses the question and provides detailed information about the cloud storage included in each plan.,v2
+17,Does the app work without internet?,technical,"Yes, the desktop app supports limited offline access. You can view and edit previously synced content without an internet connection. Any changes you make while offline will automatically sync when you reconnect to the internet.",35,1035,0.75,5,The answer directly addresses the question by confirming offline functionality and explaining how it works.,v2
+18,Will my data sync automatically?,technical,"Yes, your data will sync automatically across devices in real time. The sync process uses end-to-end encryption for security. If a sync conflict occurs, the most recent change will be kept, and you will be notified of the conflict.",39,1687,0.5,5,The answer directly addresses the question about automatic data syncing and provides additional relevant details about security and conflict resolution.,v2
+19,What are your support hours?,contact,"Our support team is available Monday through Friday, from 9am to 6pm Eastern Time.",14,927,0.25,5,The answer directly addresses the question by providing specific support hours.,v2
+20,Is live chat support available?,contact,"Yes, live chat support is available inside the app during support hours, which are Monday through Friday, from 9am to 6pm Eastern Time. To start a conversation with a support agent, click the chat icon in the bottom right corner of the app.",43,1528,1.0,5,The answer directly addresses the question and provides complete information about the availability and access to live chat support.,v2
+21,Do I need a credit card for the free trial?,pricing,"No, you do not need a credit card to start the 14-day free trial. It is available without requiring any payment information. However, after the trial ends, you will be prompted to enter payment details to continue using the service.",40,1402,0.75,5,The answer directly addresses the question and provides complete information about the free trial and payment requirements.,v2
+22,What happens after the trial ends?,pricing,"After the trial ends, if you have a Zapier paid plan, it will automatically convert to a free plan at the end of your Subscription Term. This will continue until you choose to delete your Zapier Account. It's important to note that simply requesting to cancel your paid plan or close your account through email, chat, or phone does not constitute a cancellation or termination of your account.",68,2149,0.5,4,"The answer is mostly helpful as it explains what happens to a Zapier account after a trial ends, but it could provide more details about other possible outcomes or actions users can take.",v2
+23,Can I pause my subscription instead of canceling?,policy,"No, you cannot pause your subscription. If you need to reduce costs temporarily, you can consider downgrading to the Starter free plan and then upgrade again later.",27,1024,0.5,4,"The answer directly addresses the question about pausing the subscription and provides an alternative option, though it could include more details about the downgrading process.",v2
+24,Will I get a refund if I cancel early?,policy,"If you cancel your subscription within the first 30 days of your first payment, you are eligible for a full refund. To request this refund, you need to contact billing@company.com, and it will be processed back to your original payment method within 5 to 10 business days.
+
+If you cancel after the 30-day period, refunds are not available for monthly plans. However, if you have an annual plan, you may be eligible for a prorated refund if you cancel within 60 days. In that case, you would need to contact support to request the prorated refund.
+
+Remember, your account will remain active until the end of the current billing period after you cancel, and you will not be charged again.",120,3393,0.75,5,"The answer provides clear and detailed information about refund eligibility based on the timing of the cancellation, including instructions for requesting a refund.",v2
+25,Can I upload Excel files to the platform?,technical,"You cannot directly upload Excel files (.xlsx) to the platform. However, you can export your Excel content as a CSV file and then import that CSV file into the platform. To do this, follow these steps:
+
+1. Export your Excel file as a .csv file.
+2. In the platform, go to **Settings** → **Import** → **CSV**.
+3. Upload the exported .csv file from your computer.
+
+If your spreadsheet is large, it's recommended to split it into multiple CSV files before importing to reduce errors and make property mapping easier.",89,2039,1.0,5,"The answer directly addresses the question and provides clear, detailed steps for uploading Excel content as a CSV file.",v2
+26,Are CSV files supported for import?,technical,"Yes, CSV files are supported for import into Notion. When you import a CSV file, it is converted into a Notion database, where each row in the CSV becomes a page and each column becomes a property. You can import CSV files by going to Settings → Import → CSV, or by typing /csv on a page and uploading your file. 
+
+Please note the following limitations:
+- The file size limit is 5 MB per file on the Free plan and 50 MB per file on paid plans.
+- Imports add rows to the database and do not update existing rows, so be cautious of duplicates.
+- Relations, rollups, or formulas do not import and will need to be rebuilt in Notion after the import.",125,2885,1.0,5,"The answer is fully relevant and complete, providing detailed information about CSV file support, import process, and limitations.",v2
+27,Can multiple users log in at the same time?,pricing,"Yes, multiple users can log in simultaneously from different devices. There is no limit on concurrent sessions per user, meaning you can be logged in on your phone, desktop, and browser at the same time.",35,1094,0.5,5,The answer directly addresses the question and provides clear and complete information about concurrent logins.,v2
+28,Is there a limit on team members?,pricing,"Yes, there is a limit on team members depending on the plan you choose. The Starter plan supports up to 3 users, while the Pro plan supports unlimited users. Enterprise plans also support unlimited users with advanced permission controls.",39,1660,1.0,5,The answer clearly addresses the question by specifying the limits on team members based on different plans.,v2
+29,Is my data encrypted at rest?,technical,"Yes, your data is encrypted at rest. All databases used by Linear are encrypted to ensure the security of your information.",21,860,0.5,5,The answer directly addresses the question and provides assurance about the encryption of data at rest.,v2
+30,Which region are your servers located in?,technical,"Our servers are located in the United States. All personal information we process is transferred to, processed, and stored in the United States, where our headquarters and main servers are situated.",31,1499,0.25,5,The answer directly addresses the question by specifying the location of the servers and providing additional relevant context about data processing.,v2
+31,How do I update my billing information?,how-to,"To update your billing information, follow these steps:
+
+1. Go to **Settings**.
+2. Select **Billing**.
+3. Click on **Payment Method**.
+4. Here, you can update your credit card, billing address, and invoice email as needed.
+
+You can make these updates at any time.",43,1762,0.75,5,The answer provides clear and complete steps to update billing information.,v2
+32,Can I switch plans later?,pricing,"Yes, you can switch plans at any time. Upgrades take effect immediately, while downgrades will take effect at the next billing cycle. If you are looking to reduce costs temporarily, you might consider downgrading to the Starter free plan and then upgrading again later.",44,1538,0.75,5,"The answer is fully relevant and provides clear information about switching plans, including details on upgrades and downgrades.",v2
+33,Do you offer discounts for annual plans?,pricing,"Yes, we offer a 20% discount for annual plans compared to monthly billing.",13,742,0.75,5,The answer directly addresses the question and provides specific information about the discount offered.,v2
+34,How secure is my account?,technical,"Your account security is a top priority, and several measures are in place to ensure your information is treated securely. Here are the key points regarding the security of your account:
+
+1. **Encryption**: All communication outside the cloud environment is encrypted, and databases are encrypted at rest. This means that your data is protected both during transmission and when stored.
+
+2. **Best-in-Class Security Practices**: The platform employs state-of-the-art security practices, including strong customer authentication and reliable infrastructure partners. 
+
+3. **Independently Verified Security Controls**: The security measures in place have been independently verified, ensuring compliance with industry standards.
+
+4. **Shared Responsibility**: You are responsible for maintaining the confidentiality of your account credentials. It is important to notify the service provider immediately if you suspect any unauthorized use of your account.
+
+5. **Data Processing Agreement (DPA)**: For specific details on data security practices and compliance measures, you can refer to the Data Processing Agreement.
+
+Overall, your account is secured through multiple layers of protection, but it is also essential for you to manage your credentials responsibly.",174,4407,1.0,5,The answer provides a comprehensive overview of account security measures and emphasizes the user's role in maintaining security.,v2
+35,Can I contact support via phone?,contact,"Phone support is available only for Enterprise plan customers. If you are on an Enterprise plan, you will receive a dedicated support number in your welcome email. If you are not on an Enterprise plan, you can reach out to support via live chat during support hours, email at support@company.com, or browse the help center for assistance.",57,1780,0.75,5,The answer clearly states the availability of phone support and provides alternative contact methods for non-Enterprise plan customers.,v2
+36,Is there an onboarding guide for new users?,how-to,"Yes, there is an onboarding guide for new users in Slack. The guide helps you get set up in Slack and includes steps such as downloading the desktop app, signing in to your workspace, and filling out your profile. It also provides information on exploring other features, accessing tutorials and videos, and using keyboard shortcuts for assistance. You can find this guide in the Slack Help Center under ""Getting started for new users.""",73,1657,0.75,5,The answer is fully relevant and provides comprehensive information about the onboarding guide for new users in Slack.,v2
+37,How do I delete my account permanently?,policy,"To delete your Zapier account permanently, follow these steps:
+
+1. **Log in to your Zapier Account.**
+2. **Export your Customer Content** if you wish to keep any data, as once you delete your account, it cannot be restored.
+3. **Go to Settings** in your account.
+4. **Navigate to Billing** and select **Cancel Plan** to cancel your subscription. Your account will remain active until the end of the current billing period.
+5. After canceling, you can proceed to delete your account. Note that you will need to delete your account as you cannot pause a subscription.
+6. Once you have completed these steps, your account and all associated data will be permanently deleted.
+
+Please remember that if you do not log in or have any active Zaps for 24 months, your account may be designated as ""inactive"" and deleted by Zapier.",140,4096,0.75,5,"The answer provides clear, step-by-step instructions for permanently deleting a Zapier account, including important considerations about data retention.",v2
+38,Do you provide API access?,technical,"Yes, API access is available on Pro and Enterprise plans. You can find the full documentation for the API at docs.company.com/api. Additionally, API keys can be generated from the Settings menu by navigating to Developer > API Keys.",38,1280,0.75,5,"The answer directly addresses the question about API access and provides detailed information on availability, documentation, and how to generate API keys.",v2
+39,Can I export my data?,technical,"Yes, you can export your data at any time. To do this, go to Settings and select ""Export Data."" You can export your data in CSV or JSON format. However, if you do not see the ""Export"" tab in the Content Tools section of your workspace's settings, it may be due to insufficient permissions. In that case, you should ask your workspace administrator for the necessary permissions to export pages.",70,2441,0.5,5,"The answer is fully relevant and provides clear instructions on how to export data, including format options and potential permission issues.",v2
+40,Is there a mobile app available?,technical,"Yes, there is a mobile app available for both iOS and Android. You can download it from the App Store or Google Play. The mobile app supports full read and write access and syncs automatically with the desktop and web versions.",41,1291,1.0,5,"The answer is fully relevant and provides complete information about the availability of the mobile app, including platform compatibility and features.",v2

@@ -47,11 +47,12 @@ def load_vectorstore():
     return vectordb
 
 
-def build_qa_chain(vectordb):
+def build_qa_chain(vectordb, version="v1"):
     llm = ChatOpenAI(model="gpt-4o-mini", temperature=0)
 
-    prompt = ChatPromptTemplate.from_template(
-        """
+    if version == "v1":
+        prompt = ChatPromptTemplate.from_template(
+            """
 You are a helpful assistant. Answer the question using only the context provided.
 If the answer is not in the context, say "I don't have enough information to answer that."
 
@@ -60,12 +61,29 @@ Context:
 
 Question: {question}
 """
-    )
+        )
+        k = 3
+
+    elif version == "v2":
+        prompt = ChatPromptTemplate.from_template(
+            """
+You are a helpful customer support assistant. Answer the question as clearly and completely as possible using the context provided.
+If the context contains partial information, use it to give the best answer you can.
+Always be specific — include relevant details like prices, timeframes, and steps where available.
+Only say you don't know if the context contains absolutely no relevant information.
+
+Context:
+{context}
+
+Question: {question}
+"""
+        )
+        k = 5
 
     def format_docs(docs):
         return "\n\n".join(doc.page_content for doc in docs)
 
-    retriever = vectordb.as_retriever(search_kwargs={"k": 3})
+    retriever = vectordb.as_retriever(search_kwargs={"k": k})
 
     chain = (
         {"context": retriever | format_docs, "question": RunnablePassthrough()}
