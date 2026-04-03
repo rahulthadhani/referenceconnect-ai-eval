@@ -1,0 +1,11 @@
+Refund and Cancellation Policy
+
+We offer a 30-day money-back guarantee on all paid plans. If you are not satisfied within 30 days of your first payment, contact billing@company.com and we will issue a full refund. Refunds are returned to the original payment method within 5 to 10 business days.
+
+After 30 days, refunds are not available for monthly plans. Annual plans may be eligible for a prorated refund within 60 days — contact support to request one.
+
+To cancel your subscription, go to Settings > Billing > Cancel Plan. Your account will remain active until the end of the current billing period. You will not be charged again after cancellation.
+
+You cannot pause a subscription. If you need to reduce costs temporarily, consider downgrading to the Starter free plan and upgrading again later. Your data is retained for 90 days after cancellation.
+
+Receipts are not required for refund requests — your account email is sufficient to locate your transaction.

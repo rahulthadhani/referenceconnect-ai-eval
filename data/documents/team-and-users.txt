@@ -1,0 +1,11 @@
+Team and Users
+
+The Starter plan supports up to 3 users. The Pro plan supports unlimited users. Enterprise plans support unlimited users with advanced permission controls.
+
+Multiple users can be logged in simultaneously from different devices. There is no concurrent session limit per user — you can be logged in on your phone, desktop, and browser at the same time.
+
+To invite team members, go to Settings > Team > Invite Members and enter their email addresses. They will receive an invitation link valid for 7 days.
+
+User roles: Owner (full access), Admin (manage members and billing), Member (standard access), and Viewer (read-only). Roles can be changed at any time by an Owner or Admin.
+
+To update your billing information, go to Settings > Billing > Payment Method. You can update your credit card, billing address, and invoice email at any time.

@@ -1,0 +1,11 @@
+Technical Features
+
+Offline mode: The desktop app supports limited offline access. You can view and edit previously synced content without an internet connection. Changes sync automatically when you reconnect.
+
+File formats: We support importing CSV, Excel (XLSX), PDF, and plain text files. You can export your data at any time in CSV or JSON format from Settings > Export Data.
+
+Mobile app: Native apps are available for iOS and Android. Download from the App Store or Google Play. The mobile app supports full read and write access and syncs automatically with the desktop and web versions.
+
+API access: A REST API is available on Pro and Enterprise plans. Full documentation is at docs.company.com/api. API keys can be generated from Settings > Developer > API Keys.
+
+Data sync: All changes sync automatically across devices in real time. Sync uses end-to-end encryption. If a sync conflict occurs, the most recent change is kept and you are notified.

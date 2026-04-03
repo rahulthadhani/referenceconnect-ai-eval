@@ -1,0 +1,11 @@
+Pricing and Plans
+
+We offer three plans: Starter, Pro, and Enterprise.
+
+The Starter plan is free and includes up to 3 users, 5GB of cloud storage, and email support. It does not include API access or advanced integrations.
+
+The Pro plan costs $12 per user per month (or $10 per user per month billed annually). It includes unlimited users, 100GB of cloud storage, live chat support, API access, and priority email support. A 14-day free trial is available — no credit card required to start. After the trial ends, you will be prompted to enter payment details to continue. If you do not upgrade, your account moves to the free Starter plan.
+
+The Enterprise plan is custom-priced and includes unlimited storage, dedicated support, SSO, and SLA guarantees. Contact sales@company.com for a quote.
+
+Annual plans receive a 20% discount compared to monthly billing. You can switch plans at any time — upgrades take effect immediately, downgrades take effect at the next billing cycle.
