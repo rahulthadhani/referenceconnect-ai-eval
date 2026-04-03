@@ -6,7 +6,7 @@ and latency — replicating the evaluation workflow used in production AI produc
 
 ## Project Status
 - [x] Phase 1: Project setup, web scraper, document corpus
-- [ ] Phase 2: RAG pipeline
+- [x] Phase 2: RAG pipeline
 - [ ] Phase 3: Evaluation metrics engine
 - [ ] Phase 4: Analytics dashboard
 - [ ] Phase 5: Findings report + Excel export
