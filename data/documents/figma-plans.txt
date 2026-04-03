@@ -1,0 +1,179 @@
+Figma has several products:
+Figma Design
+,
+Dev Mode
+,
+FigJam
+,
+Figma Slides
+, and
+Figma Make
+. You can choose which products to use on each of our four plans. Figma has additional products, such as Figma Sites or Figma Buzz, that are currently in beta.
+Learn more about access to beta features
+.
+Tip
+: Visit the
+pricing page
+for detailed pricing information about each plan.
+Tip
+:
+Have specific needs for your plan? Explore these additional offerings:
+Figma for Government
+: Built for government agencies, with enhanced security and compliance controls.
+Governance+
+(Enterprise add-on): Advanced admin and security features for greater control and visibility.
+Figma for Education
+: Free access for eligible students and educators, designed for classroom use.
+Design, development, and collaboration features
+Starter
+Professional
+Organization
+Enterprise
+File and project organization
+A single
+team
+with 3 files
+A single
+team
+Multiple teams
+Multiple teams
+and
+workspaces
+Version history
+30 days
+Unlimited
+Unlimited
+Unlimited
+Audio conversations
+✓
+✓
+✓
+Auto layout
+✓
+✓
+✓
+✓
+Components
+✓
+✓
+✓
+✓
+Libraries for components, styles, and variables
+✓
+✓
+✓
+Variable modes
+Up to 10 modes per collection
+Up to 20 modes per collection
+Unlimited modes with
+extended collections
+REST API for variables
+✓
+Prototypes
+✓
+✓
+✓
+✓
+Video in prototypes
+✓
+✓
+✓
+Variables
+,
+expressions
+, and
+conditional logic
+in prototypes
+✓
+✓
+✓
+Inspect design and prototype properties
+✓
+✓
+✓
+✓
+Dev Mode
+✓
+✓
+✓
+Code Connect
+✓
+✓
+Shared fonts
+✓
+✓
+Branching and merging
+✓
+✓
+Organization-wide design systems
+✓
+✓
+Community resources like
+widgets
+,
+plugins
+, and
+files
+✓
+✓
+✓
+✓
+Private widgets and plugins
+✓
+✓
+Security and administration features
+Starter
+Professional
+Organization
+Enterprise
+Prototype sharing controls
+✓
+✓
+✓
+Password protection
+✓
+✓
+✓
+Seat approval settings
+✓
+✓
+✓
+Design system analytics
+✓
+✓
+Link access controls
+✓
+✓
+Centralized administration
+✓
+✓
+Plugin and widget management
+✓
+✓
+Domain capture
+✓
+✓
+Single sign-on (SSO)
+✓
+✓
+Activity logs
+✓
+✓
+Seat assignment via SCIM
+✓
+Restrict access to external content
+✓
+Disable cursor chat
+✓
+Guest access controls
+✓
+Require password protection on links
+✓
+Set public links to expire
+✓
+Workspaces and workspace administration
+✓
+Default teams in workspaces
+✓
+Deploy Figma via Microsoft Installer
+✓

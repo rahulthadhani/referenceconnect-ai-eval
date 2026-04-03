@@ -1,0 +1,176 @@
+Tracking events in Intercom gives you a better understanding of how your customers use your product. This understanding lets you send targeted, relevant messages and gives you all the context you need to support your customers.
+Intercom tracks some events by default, like page views and interactions with your Help Center, this article is about tracking your own custom events.
+There are many ways to send events to Intercom:
+The Intercom JavaScript API
+.
+Google tag manager
+.
+Via the REST API
+.
+Through our
+mobile SDKs
+.
+With apps & integrations like Stripe or Segment
+.
+Event Metadata
+Every event you track can also include metadata. This is additional information about each specific occurence of the event. E.g.: If you track a “purchase” event, the metadata could be the name and price of the item purchased.
+Each event can be sent with up to twenty pieces of metadata. The following types of data are supported:
+String:
+A plain string up to 255 characters long.
+Number:
+Positive or negative number.
+Date:
+A
+timestamp
+which we'll show as a human readable date. (Note: this is in Intercom only. If you use
+metadata
+as part of Proactive support messages, these values will not be formatted.)
+Link:
+An http or https url, which we'll create a link to.
+Rich link:
+An http or https link, also sent with a title, which we'll create a link to.
+Image:
+An http or https link to an image, which we'll display.
+Stripe (retail):
+A Stripe invoice, customer or charge identifier, which we'll create a link to.
+Monetary (retail):
+An amount with a currency.
+Important:
+Key names are case insensitive, and can’t contain periods ('.'), dollar signs ('$'), characters like ~`!@#%^&*'{}|\'" or the NULL character.
+Dashes in key names are not displayed in Intercom. The key is still important for tracking data, while 'invited-friend' and 'invited friend' will both be displayed as Invited friend in the UI, the two fields represent different data.
+Read on to learn how to send events with each method. Or,
+skip to this overview of tracking an event from start to finish
+.
+The Intercom JavaScript API
+With the Intercom JavaScript snippet installed in your app or on your website, you can submit events when your users or visitors take actions.
+Use the Intercom(‘trackEvent’) method. This automatically associates the event with the currently tracked
+visitor, lead or user
+and sends it to Intercom.  A simple event would look like this:
+This would be tracked like this:
+Intercom('trackEvent', ‘upload-complete');
+Optionally, you can also include metadata with the event for more granular targeting of
+event based messages
+, and inclusion in message content:
+This event with metadata:
+var metadata = {
+duration: 19,
+type: "JPEG",
+file_location: "https://external-content.com/example.jpg"
+};
+Intercom('trackEvent', 'upload-complete');
+Note:
+To track events with the JavaScript API you’ll need to ensure that the Intercom JavaScript snippet has already successfully loaded on the page.
+To Install Intercom, copy
+the first code snippet in your web installation settings
+, which is pre-populated with your
+workspace ID
+. Then paste the code right before the closing
+<body/>
+tag of any page where you want to track events.
+Google Tag Manager
+If you’ve installed Intercom with Google tag manager, you can use it to track custom events, like this
+example from our help article
+, which tracks an event for “Exit intent”. This is perfect for messages you want to send to your site visitors, like example.
+Directly via the REST API
+You can track events directly via the REST API, using the language of your choice, or one of our supported SDKs:
+PHP
+Node
+Ruby
+Go
+Java
+.NET
+When tracking an event with the REST API, you can also specify a “created_at” time to define specifically when it took place, which allows you to “catch up” on events that occurred historically.
+See our
+API Documentation
+for more details.
+Note:
+Events tracked via the API, won’t trigger Banners or Carousels. For these message types, we recommend using the JavaScript api, or one of our mobile SDKs.
+From your mobile app using one of our mobile SDKs
+You can use any of our mobile SDKs to set up event tracking:
+iOS
+Android
+Cordova/Phonegap
+With an app like Segment or Stripe.
+Various apps from our
+app store
+, will track events for you in Intercom. For example,
+the Stripe app
+will track subscription events like recent payments. This is perfect for
+sending notification messages about account activity
+.
+Browse “Data and enrichment” apps in our app store to find more options
+.
+Event tracking in action
+For this example, we’ll track an event with the JavaScript API whenever a customer’s upload is complete, then send them a message each time that happens.
+First, the code we need:
+This JavaScript tracks an event called “Upload complete” and includes:
+The file location
+- “/example.jpg”
+The type
+- “JPEG”
+And how long it took to upload (in minutes)
+- 19
+Now each time the event is tracked, it’s visible in these places:
+The user profile.
+In the Help Desk (recent events).
+In your message filters.
+Filters on the contact list.
+Note:
+When someone first contacts you and is added as a lead in Intercom, you can see any events they’ve tracked
+as a visitor
+in the last 90 days before getting in touch.
+From
+Settings > Data > People
+and under the Events tab we’ll
+add a description
+to the event so it’s super clear for all our teammates what it represents:
+Now with the event tracked successfully, we can use event based messaging to
+send them a notification banner
+each time it occurs. Read this article to learn all about
+event based messaging
+.
+How do I delete events?
+From your
+workspace’s event settings
+, open the event and click 'Archive':
+You can always unarchive an event later if you change your mind, but archived events aren't recreated if you track them again.
+Below is an example of how you would set up a Rich Link:
+var metadata = {
+order_number: {url: "https://example.com/tx186373", value: "TX186373"},
+};
+Intercom('trackEvent', 'order', metadata);
+In the above example we are sending the
+https://example.com/tx186373
+link in the metadata for the 'order' Event with a title which will create a link to the URL you sent.
+When the above event is sent for a particular user they will see the order_number attribute with a value of TX186373 but the link will be embedded on that value.
+Best practices for capturing events
+Events are most useful for filtering and segmenting your users, and sending targeted messages to your customers.
+With that in mind, we have some recommendations on how to get the most out of Events:
+Send events which capture meaningful actions
+. A purchase is a great basis for a conversation as opposed to recording all the clicks that lead up to that purchase. Meaningful events will also make creating filters and auto-messages much easier.
+Send the right amount of metadata
+. Metadata is a great way to contextualise activity, but sending too much can be distracting. Remember that you can always link back to your own systems for more details.
+Format your metadata as if it were to be sent to a customer.
+Metadata is not formatted when included in your messages, so it must be ready to go when it’s received by Intercom.
+Use events to understand user to user interactions
+like invitations and social activity. You can use metadata to provide a rich view of how users are interacting with your business and each other.
+Name your events in a way that makes them easily readable
+in Intercom. Using a past tense verb is one way to make the action more easily understood when it appears in the user activity timeline e.g. "
+Purchased
+item", "
+Created
+profile" or "
+Viewed
+onboarding guide".
+💡
+Tip
+Need more help?
+Get support from our
+Community Forum
+Find answers and get help from Intercom Support and Community Experts
+Related Articles
+The Intercom JavaScript API
+Record customer activity with event tracking
+Install Intercom with Google Tag Manager
+Send repeatable messages based on events you track in Intercom
+Event Limits, Troubleshooting and F.A.Q

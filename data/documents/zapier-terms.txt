@@ -1,0 +1,305 @@
+Zapier Terms of Service
+Posted Date
+: April 1, 2026
+Effective Date
+: April 7, 2026
+Prior Version
+: Your continued use of our Service automatically constitutes your acceptance of these updated Terms. You may review the prior version of the Zapier Terms of Service
+here
+. These updated Terms completely replace all previous versions.
+Thanks for using Zapier! Please read these Zapier Terms of Service (the "
+Terms
+") carefully. They govern your access to and use of Zapier’s cloud-based automation technology services available at
+zapier.com
+after logging into your Zapier Account (as defined below), Zapier APIs and any updates, upgrades, modified versions, extensions, improvements, and derivative works of the foregoing (collectively, the "
+Service
+").
+Zapier, Inc. is a Delaware corporation, and in these Terms, we will reference ourselves as "
+Zapier
+" or "
+we
+"/"
+us
+".
+"
+You
+" means the entity that you represent in accepting these Terms. You represent and warrant that (i) you have full legal authority to bind your employer or such entity to these Terms; (ii) you have read and understand these Terms; and (iii) you agree to these Terms on behalf of such employer or entity.
+1. Definitions
+(a) "
+Acceptable Use Policy
+" means Zapier’s
+Acceptable Use Policy
+, which is incorporated into these Terms.
+(b) "
+Account Information
+" means information about your Zapier account and information that you and your users provide to Zapier in connection with (i) the creation or administration of your Zapier account; or (ii) Zapier’s maintenance of your Zapier account or the Service. For example, Account Information includes names, usernames, passwords, email addresses, and billing information.
+(c) "
+Affiliate
+" means an entity controlled, controlling, or under common control with a party, where control means at least 50% ownership or power to direct an entity’s management.
+(d) "
+Beta Release
+" means any alpha, beta, developmental, test, experimental, preview, or early-access releases of the Service or other Zapier products or services. Any of the preceding terms on a feature, product, or program is notice of Beta Release status.
+(e) "
+Customer Content
+" means any information, content, or materials that you submit through the Service to your Zapier Account, or is generated and returned by the Service based on such submissions, including Inputs and Outputs, provided that Customer Content excludes the Service, Third-Party Services, Documentation, and Usage Information.
+(f) "
+Documentation
+" means Zapier-provided user documentation relating to the Service found in our
+help center
+, as may be updated by Zapier from time to time. Documentation does not include any content published on any other site, community, or page.
+(g) “
+DORA
+” means the Digital Operational Resilience Act, Regulation (EU) 2022/2554, on digital operational resilience for the financial sector.
+(h) “
+DORA Addendum
+” means Zapier's
+Digital Operational Resilience Act (DORA) Addendum
+for EU-based customers who qualify as financial entities using Zapier as an ICT third-party service provider (as defined in DORA).
+(i) "
+DPA
+" means Zapier’s
+Data Processing Addendum
+for processing Personal Information (as defined in the DPA).
+(j) "
+Feedback
+" means feedback, comments, ideas, proposals, and suggestions for improvements, along with associated context, whether regarding the Service, a Beta Release, or any other products, services, or business of Zapier.
+(k) "
+Fees
+" mean the fees applicable to your use of the Service in accordance with the applicable package as included in our pricing notice included in the Service or on Zapier’s website or, if applicable, as set forth in a Zapier order form.
+(l) "
+High-Risk Activities
+" means activities where use or failure of the Service could lead to death, personal injury, or environmental damage, including life support systems, emergency services, nuclear facilities, autonomous vehicles, air traffic control, or use cases prohibited under applicable law.
+(m) "
+Input
+" means all information that Customer submits to AI features of the Service.
+(n) "
+Output
+" means information generated and returned by AI features of the Service based on the Input.
+(o) “
+SDK Components
+” means software development kits, client libraries, or command-line tools made available by Zapier for local installation to use in connection with the Service.
+(p) "
+Sensitive Personal Data
+" means (i) patient, medical, or other protected health information, including those regulated by the Health Insurance Portability and Accountability Act (as amended and supplemented) (HIPAA); (ii) credit, debit, bank account or other financial account numbers; (iii) social security numbers, driver’s license numbers, or other government ID numbers; and (iv) special categories of personal data enumerated in the European Union General Data Protection Regulations ("GDPR").
+(q) "
+Subscription Term
+" means the period during which you have agreed to subscribe to the Service.
+(r) "
+Supplemental Terms
+" mean any additional terms presented to you at the time you sign up for or first access a Beta Release.
+(s) “
+Taxes
+” means any sales, use, GST, value-added, withholding, or similar taxes or levies that apply to the Service, whether domestic or foreign.
+(t) "
+Third-Party Login
+" means your login credentials from a supported third-party site or product which are integrated to allow you to access your Zapier Account.
+(u) "
+Third-Party Services
+" means any third-party service, connection, site, platform, application, software, or integration that interoperates with the Service.
+(v) "
+Usage Information
+" means (i) configuration data, including field mapping, field naming, actions, steps, and structures of products and functionalities of the Service, (ii) instructions to configure or navigate the Service, and (iii) analytics data, including metadata, relating to the provision, use, operations, security, and performance of the Service, features and functionality of the Service, and Third-Party Services, and analytics derived therefrom.
+(w) "
+Zapier Account
+" means the account on the Service you register and open in order to access and use the Service.
+2. Zapier Account Registration
+(a)
+Account Registration and Use License
+: In order to access and use the Service, you must register for a Zapier Account. You must provide and maintain accurate, current, and complete Account Information. Upon your proper registering for a Zapier Account and subject to these Terms, Zapier will make the Service available during the applicable Subscription Term, solely for your own internal business purposes and in accordance with the Documentation. To the extent the Service includes SDK Components, Zapier hereby grants you a limited, non-exclusive, non-transferrable, and revocable license during the Subscription Term to download and install the SDK Components locally or into your own applications for use in connection with the Service through your Zapier Account for your internal business purposes.
+(b)
+Eligibility
+: In order to open and maintain a Zapier Account, you hereby represent, warrant, and covenant that you have the legal capacity (including, without limitation, being of sufficient age) to enter into contracts under the law of the jurisdiction in which you reside.
+(c)
+Credentials
+: You are responsible for maintaining the confidentiality of your Zapier Account credentials, including all users’ credentials. You agree to immediately notify Zapier of any suspected or unauthorized use of your Zapier Account. You are responsible for all uses of the Service under your Zapier Account. Zapier reserves the right to revoke, rotate, or expire any API tokens, client credentials, or other programmatic authentication mechanisms at any time if Zapier reasonably believes such credentials have been compromised or are being used in violation of these Terms.
+3. Fees; Taxes; Term and Termination
+(a)
+Fees
+: Some Service features may only be accessed and used after payment of applicable Fees. Except as expressly stated in these Terms or as required by applicable law, Fees paid are non-refundable, and payment obligations are non-cancelable. NOTWITHSTANDING ANYTHING CONTAINED HEREIN, ANY SERVICE PROVIDED DURING A FREE TRIAL PERIOD IS PROVIDED "AS-IS" WITHOUT ANY REPRESENTATIONS, WARRANTIES, OR INDEMNITIES.
+(b)
+Future Functionality
+: Customer agrees that its purchase of the Service is not contingent on the delivery of any future functionality or features, or dependent on any oral or written comments made by Zapier regarding future functionality or features.
+(c)
+Taxes
+: You are responsible for any Taxes other than Zapier’s income tax. Fees and expenses are exclusive of Taxes, levies, or duties. If Zapier has the legal obligation to pay or collect Taxes for which you are responsible under this section, Zapier will invoice you, and you will pay that amount unless you provide Zapier with a valid tax exemption certificate authorized by the appropriate taxing authority.
+(d)
+Subscription Term
+: Your Subscription Term begins once you register for your Zapier Account and is the billing cycle that you selected for your Zapier Account, or if purchasing the Service by a Zapier order form, then the Subscription Term listed on your order form.
+(e)
+Auto-Renewal
+: UNLESS YOU DOWNGRADE OR CANCEL YOUR SUBSCRIPTION PRIOR TO YOUR RENEWAL DATE, YOUR SUBSCRIPTION WILL AUTOMATICALLY RENEW FOR ANOTHER SUBSCRIPTION TERM ON THE SAME PLAN (OR IF NO LONGER AVAILABLE, A SUCCESSOR PLAN) AND FOR A PERIOD EQUAL TO YOUR THEN-CURRENT SUBSCRIPTION TERM. All renewals are subject to Zapier continuing to offer the applicable Service, Plan, and components thereof, and will be subject to the then-current Fees and any then-current eligibility criteria.
+(f)
+Plan Changes, Cancellation, and Termination by You
+: You can upgrade your plan, cancel your renewal, or delete your Zapier Account by following the steps outlined
+here
+. If you cancel your Zapier paid plan or if your Zapier paid plan expires, your Zapier Account will be converted to our free plan at the end of your Subscription Term until you delete your Zapier Account. For the avoidance of doubt, the following do not constitute cancellation of a paid plan or termination of your Zapier Account: (i) an email, chat, or phone request to cancel your paid plan or close your Zapier Account; (ii) revoking or suspending any form of payment put on record with Zapier to pay your Zapier Account Fees; or (iii) any cancellation or termination confirmation from a party other than Zapier.
+(g)
+Termination and Suspension by Zapier
+: We reserve the right to terminate or suspend your Zapier Account and/or our Service to you at any time and for any reason upon notice to you. If we terminate or suspend your Zapier Account without cause, we will refund a prorated portion of your monthly prepayment. We will not refund or reimburse you if we terminate your Zapier Account for cause, including (without limitation) for a violation of these Terms or the Acceptable Use Policy.
+(h)
+Effect of Termination
+: Once you delete your Zapier Account, neither your Zapier Account nor your Customer Content can be restored or recovered in any way. If you do not log in to your Zapier Account or have any active Zaps for twenty-four (24) or more months, we reserve the right to designate your Zapier Account as "inactive" and delete the Zapier Account and/or all the data associated with it. Except where an exclusive remedy may be specified in these Terms, the exercise by either party of any remedy, including termination, will be without prejudice to any other remedies it may have under these Terms. All sections of these Terms which by their nature should survive termination will survive, including without limitation, accrued rights to payment, use restrictions and indemnity obligations, confidentiality obligations, warranty disclaimers, and limitations of liability.
+4. Your Use of the Service and Restrictions
+(a)
+Account and Use of Service
+: You may use your Zapier Account and the Service only in compliance with (i) all applicable laws, regulations, and applicable third-party terms; (ii) these Terms, the Documentation; and (iii) any user and usage limits applicable to your Zapier Account.
+(b)
+Prohibited Use
+: You shall not use or access the Service in violation of the Acceptable Use Policy. Further, you will not and will not permit anyone else to: (i) sell, sublicense, distribute, transfer, or rent the Service (in whole or part), grant non-users access to the Service or use the Service to provide a hosted or managed service to others; (ii) reverse engineer, decompile or seek to access the source code of the Service, except to the extent these restrictions are prohibited by law and then only upon advance notice to Zapier; (iii) copy, modify, create derivative works of or remove proprietary notices from the Service; (iv) conduct security or vulnerability tests of the Service, interfere with its operation or circumvent its access restrictions; (v) use the Service to develop a product or Service competitive to Zapier; (vi) use AI-components of the Service to develop foundation models or other large-scale models; (vii) distribute, sublicense, or make available any SDK Components on a standalone basis separate from your application’s use of the Service; or (viii) otherwise use the Service outside of the scope of the rights expressly granted herein.
+(c)
+No High-Risk Activities or Prohibited Sensitive Personal Data
+: You may not access or use the Service for any High-Risk Activities or to upload or transmit any Sensitive Personal Data. We have no liability under these Terms for any High-Risk Activities or Sensitive Personal Data in violation of the foregoing.
+(d)
+Enforcement
+: We reserve the right, but do not undertake the obligation, to monitor the Service, investigate, and take appropriate action against any party that uses the Service in violation of applicable law or these Terms, including but not limited to, the right to remove, or delete any Customer Content. We will use reasonable efforts to provide you with advance notice of removals and suspensions when practicable, but if we determine that your actions could endanger the operation of the Service or other users, we may suspend your access or remove your Customer Content immediately without notice. We have no liability to you for accepting, removing, or deleting your Customer Content.
+(e)
+Communications Compliance
+: You acknowledge that (i) you are exclusively responsible for and control the timing, content, and distribution of such communications; and (ii) all such communications comply with all applicable laws and regulations, including the Telephone Consumer Protection Act.
+(f)
+Export Controls
+: You hereby represent, warrant, and covenant that: (i) you understand and acknowledge that components of the Service may be subject to export, re-export, and import restrictions under applicable law; (ii) you will not use the Service in a manner that violates applicable U.S. export laws or U.S. Department of Commerce regulations; and (iii) you are not located in, under the control of, or a national or resident of any country against which the United States currently has sanctions.
+(g)
+Bulk Data Transfers
+: You confirm that you are not a covered person and will not engage in any covered data transaction, including a prohibited transaction or restricted transaction, or otherwise share or transfer, any bulk U.S. sensitive personal data with any country of concern or covered person, and that you are otherwise in compliance with Executive Order, Preventing Access to U.S. Sensitive Personal Data and Government-Related Data by Countries of Concern or Covered Persons, 28 CFR part 202 (2025) (the “DOJ Rule”). In the preceding sentence, the terms “prohibited transaction”, “restricted transaction”, “bulk U.S. sensitive personal data”, “covered data transaction,” “country of concern,” “covered person” shall have the meanings ascribed to such terms in the DOJ Rule at §202.201-202.259. Each party agrees to not evade or avoid, cause a violation of, or attempt to violate any of the prohibitions set forth in the DOJ Rule. Each party shall report to the other party any known or suspected violations of the requirement in the previous sentence in accordance with paragraph (b) of §202.201 of the DOJ Rule.
+5. Our Security and Data Privacy Practices
+(a)
+Data Privacy
+: Zapier’s
+Privacy Policy
+is hereby incorporated into and made a part of these Terms by this reference.
+(b)
+Data Processing Addendum
+: To the extent that Zapier processes any Personal Information (as defined in the DPA) contained in Customer Content subject to Applicable Data Protection Law (as defined in the DPA), the
+DPA
+shall apply to such processing. To the extent that Zapier processes any personal data subject to GDPR, you are the data exporter and Zapier is the data importer.
+(c)
+DORA Addendum
+: To the extent that you are an EU-based customer subject to DORA for whom Zapier is an ICT third-party service provider (as defined in DORA), the
+DORA Addendum
+shall supplement these Terms.
+(d)
+Security
+: We have implemented and maintain physical, technical, and administrative security measures designed to protect the Service and Customer Content from unauthorized access, destruction, use, modification, or disclosure. These security measures are further described in the Annex to the DPA. You agree to ​​implement reasonable access controls and authentication mechanisms on the Service, including secure identity management.
+6. Terms that Apply to Your Data
+(a)
+Your Data
+: You retain ownership of your Customer Content, including Customer Content from your accounts with Third-Party Services that are transmitted, processed, and/or stored in the Service. By transmitting, processing, and/or storing Customer Content in the Service, you hereby grant Zapier a worldwide, non-exclusive, and limited-term license to access, use, process, copy, store, distribute, perform, transmit, export, and display Customer Content and to access your Zapier Account, as reasonably necessary: (i) to provide, maintain, operate, improve, and update the Service; (ii) to prevent or address service, security, support, or technical issues; and (iii) as required by law.
+(b)
+Your Compliance Obligations
+: You shall be solely responsible for the accuracy, quality, content, and legality of Customer Content, and any actions triggered by Customer Content. You represent and warrant that: (i) you have obtained all necessary rights, releases, and permissions to transmit Customer Content through the Service and for any actions triggered by Customer Content on the Service, and to otherwise use, process, and/or store Customer Content on the Service; and (ii) Customer Content, and its transmission, processing, storage, and use as you authorize in these Terms or through your Zapier Account will not violate any laws or regulations, these Terms, or the terms of any applicable Third-Party Service.
+7. Proprietary Rights and Improving the Service
+(a)
+Zapier Service
+: The Service is made available on a limited access basis, and no ownership rights are conveyed to you. Notwithstanding anything to the contrary in these Terms, we and our licensors have and retain all right, title, and interest, including all intellectual property rights, in and to the Service, including all modifications, updates, upgrades, extensions, components, Usage Information, and all derivative works to the Service. All our rights not expressly granted under these Terms are hereby retained.
+(b)
+Improvements
+: Zapier welcomes Feedback. If you provide Feedback, we may use it without restriction or compensation to you. Notwithstanding anything to the contrary set forth herein or otherwise, (i) Zapier may collect, analyze, and use Usage Information, to operate, enhance, improve, and develop Zapier products or services, and otherwise in connection with our business; (ii) Zapier may derive de-identified data sets from your Customer Content ("Derived Data") and may use such Derived Data to operate, enhance, improve, and develop Zapier products or services, including through model training. You may opt out of providing Zapier with such permission for Derived Data by submitting this
+opt-out form
+; and (iii) if you are a subscriber to the Company Plan or the Enterprise Plan, your Zapier Account and all users on your Zapier Account are automatically opted out from Derived Data sets.
+(c)
+Trademarks
+: ZAPIER, ZAP, ZAPCONNECT, the ZAPIER logo, and all Zapier product names are trademarks and/or service marks of Zapier and third-party logos and product names are trademarks and/or service marks of third parties. Nothing in these Terms shall be construed as granting any license or right to use any Zapier or third-party trademark without the applicable prior written consent of Zapier or the owner of the third-party trademark. You hereby grant Zapier the right to identify you as a customer of Zapier and to use your logos and/or trademarks for that purpose.
+8. Third-Party Services
+(a)
+Links and Integrations with Third-Party Services
+: The Service may contain, or otherwise enable, links to and integrations with Third-Party Services, whether located within the Service or on separate Third-Party Service websites that connect back to the Service. Zapier provides and/or enables such links to and integrations solely as a convenience, has no responsibility for the content, functionality, or availability of such Third-Party Services, and does not endorse such Third-Party Services (or any products or other services associated therewith). Access to any Third-Party Services linked to the Service is at your own risk, and Zapier is not responsible for the accuracy or reliability of any information, data, opinions, advice, or statements made by, on, or through such Third-Party Services. If you choose to grant a Third-Party Service any access to your Zapier Account, you are solely responsible for that Third-Party Service having access to your data, including Customer Content, and connections contained therein, and for any/all actions that the Third-Party Service may take on behalf of your Zapier Account or Customer Content. Your use of any Third-Party Service is subject to the terms applicable to such Third-Party Service. You may not post a link that directs users to any content or information that would constitute a violation of these Terms or any terms applicable to such Third-Party Service.
+(b)
+Linking to Third-Party Services
+: You acknowledge and agree that your Account Information and Usage Information regarding your use of a Third-Party Service integration through your Zapier Account may be shared with that Third-Party Service. Pursuant to your configuration and usage of the Service, Customer Content will be transmitted to and from your Zapier Account to one or more Third-Party Service(s) you’ve linked with your Zapier Account. We may also share your Customer Content with a specific Third-Party Service that you linked to your Zapier Account in order to prevent or resolve service, security, support, or technical issues related to that Third-Party Service.
+9. Service Warranty; Indemnification
+(a)
+Service Warranty
+: If you are a paying subscriber to the Service, Zapier warrants to you that we will provide the Service during the Subscription Term substantially as described in the Documentation under normal use. In the event of any breach of this warranty, your exclusive remedy will be our reperformance of the deficient Service or, if we do not reperform such deficient Service as warranted, you may terminate your Zapier Account as set forth above and we will refund a prorated portion of your prepayment. You must notify us in writing of any warranty deficiency within ten (10) days from receipt of the deficient Service in order to receive the foregoing warranty remedy.
+(b)
+Disclaimers
+: EXCEPT AS EXPRESSLY SET FORTH IMMEDIATELY ABOVE, THE SERVICE IS PROVIDED STRICTLY ON AN "AS IS" AND "AS AVAILABLE" BASIS, AND ZAPIER MAKES NO WARRANTY THAT THE SERVICE IS COMPLETE, SUITABLE FOR YOUR PURPOSE, RELIABLE, USEFUL, OR ACCURATE. ON BEHALF OF ITSELF AND ITS LICENSORS, ZAPIER HEREBY EXPRESSLY DISCLAIMS ANY AND ALL IMPLIED, STATUTORY, OR OTHER WARRANTIES WITH RESPECT TO THE SERVICE OR THE AVAILABILITY OF THE FOREGOING, INCLUDING, WITHOUT LIMITATION, THE IMPLIED WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, TITLE, AND NONINFRINGEMENT. THE ENTIRE RISK AS TO RESULTS OBTAINED THROUGH USE OF THE SERVICE RESTS WITH YOU. ZAPIER AND ITS LICENSORS WILL NOT BE LIABLE OR RESPONSIBLE IN ANY WAY FOR ANY LOSSES OR DAMAGE OF ANY KIND INCURRED AS A RESULT OF THE USE OF OR RELIANCE ON ANY MATERIAL CONTAINED IN THE SERVICE. ZAPIER MAKES NO REPRESENTATION OR WARRANTY THAT THE AVAILABILITY OF THE SERVICE WILL BE UNINTERRUPTED, THAT THE SERVICE WILL BE ERROR-FREE, OR THAT ALL ERRORS WILL BE CORRECTED.
+(c)
+Your Indemnification Obligations
+: You agree to defend Zapier, its affiliates, directors, officers, employees, and agents (“Zapier Indemnified Parties”) against any claim, hold harmless Zapier Indemnified Parties, and indemnify Zapier Indemnified Parties from and against any and all loss, costs, damages, liabilities, and expenses (including reasonable attorneys’ fees) arising out of or related to (i) your violation or alleged violation of these Terms, or (ii) Customer Content.
+(d)
+Zapier’s Indemnification Obligations
+: If you are a paying subscriber to the Service, Zapier will defend you against any third-party claim brought against you alleging that the use of such paid Service as permitted hereunder infringes any trade secret, United States patent, copyright, or trademark right of a third party, and Zapier shall pay all costs and damages finally awarded against you by a court of competent jurisdiction as a result of any such claim; provided that you (i) promptly give written notice thereof to Zapier; (ii) give Zapier sole control of the defense and settlement of the claim; and (iii) provide to Zapier all reasonable assistance. The foregoing shall not apply to any claim based upon or arising from (a) any use of the Service outside the scope of these Terms or Acceptable Use Policy; (b) Customer Content; or (c) a combination of the Service with any content or other technology not provided by Zapier. If Zapier reasonably believes that the Service may infringe upon a third party's intellectual property rights, then Zapier may, at its sole option and expense (1) obtain a license that permits you to continue using the Service; (2) modify the Service to make the Service non-infringing without materially reducing its functionality; or (3) replace the Service with a non-infringing, functionally similar alternative. If none of the foregoing are commercially reasonable, in Zapier’s sole discretion, Zapier may terminate the applicable Service and issue you a pro-rata refund of Fees for a Service not provided.
+(e)
+Sole Rights and Obligations
+: Without affecting either party's termination rights, this Section states the parties' sole and exclusive remedy under these Terms for any third-party allegations and claims covered by this section.
+10. LIMITATION OF LIABILITY
+(a)
+Limitation of Liability
+: EXCEPT FOR EXCLUDED CLAIMS, NEITHER PARTY NOR ITS LICENSORS SHALL BE LIABLE FOR ANY AMOUNTS IN THE AGGREGATE THAT EXCEED THE ACTUAL FEES PAID BY YOU TO ZAPIER DURING THE TWELVE (12) MONTHS IMMEDIATELY PRECEDING THE CLAIM. “
+EXCLUDED CLAIMS
+” MEANS (i) ANY AMOUNTS OWED BY YOU UNDER FEES; (ii) YOUR INDEMNIFICATION OBLIGATIONS IN THESE TERMS OR YOUR BREACH OF SECTION 4; AND (iii) CLAIMS THAT MAY NOT BE CAPPED OR LIMITED UNDER APPLICABLE LAW.
+(b)
+Consequential Damages
+: NEITHER PARTY NOR THEIR LICENSORS SHALL BE LIABLE FOR INDIRECT, INCIDENTAL, CONSEQUENTIAL, PUNITIVE, SPECIAL, EXEMPLARY, OR STATUTORY DAMAGES (INCLUDING, WITHOUT LIMITATION, LOSS OF BUSINESS, LOSS OF PROFITS, LOSS OF REVENUE, LOSS OF DATA, LOSS OF GOODWILL, OR COST OF COVER OR COST OF PROCUREMENT OF SUBSTITUTE GOODS OR SERVICES), EVEN IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGES. THIS DISCLAIMER SHALL NOT APPLY TO THE EXTENT PROHIBITED BY LAW.
+(c)
+Form of Action
+: The waivers and limitations specified in this Section apply regardless of the form of action, whether in contract, tort (including negligence), strict liability, or otherwise and will survive even if any limited remedy is found to have failed of its essential purpose.
+11. Confidential Information
+(a)
+Confidential Information
+: Each party ("Disclosing Party") may disclose Confidential Information to the other party ("Receiving Party") in connection with the Service. "Confidential Information" is anything that reasonably should be understood to be confidential given the nature of the information and the circumstances of disclosure, as well as non-public business, product, product roadmap, technology, and marketing information. If something is labeled "Confidential," that is a clear indicator to the Receiving Party that the material is confidential. Notwithstanding the above, Confidential Information does not include information that (i) is or becomes generally available to the public without breach of any obligation owed to the Disclosing Party; (ii) was known to the Receiving Party prior to its disclosure by the Disclosing Party without breach of any obligation owed to the Disclosing Party; (iii) is received from a third party without breach of any obligation owed to the Disclosing Party; or (iv) was independently developed by the Receiving Party.
+(b)
+Protection and Use of Confidential Information
+: The Receiving Party will (i) take at least reasonable measures to prevent the unauthorized disclosure or use of Confidential Information, and limit access to those employees, affiliates, and contractors who need to know such information in connection with the Service, provided, they are bound to confidentiality obligations at least as restrictive as those in these Terms; and (ii) not use or disclose any Confidential Information of the Disclosing Party for any purpose outside the scope of the Service and these Terms. Nothing above will prevent either party from sharing Confidential Information with financial and legal advisors; provided, such advisors are bound to confidentiality obligations at least as restrictive as those in these Terms.
+(c)
+Compelled Access or Disclosure
+: The Receiving Party may access or disclose Confidential Information of the Disclosing Party if it is required by law; provided, however, that the Receiving Party gives the Disclosing Party prior notice of the compelled access or disclosure (to the extent legally permitted) and reasonable assistance, at the Disclosing Party's cost, if the Disclosing Party wishes to contest the access or disclosure. If the Receiving Party is compelled by law to access or disclose the Disclosing Party’s Confidential Information, the Disclosing Party will reimburse the Receiving Party for its reasonable cost of compiling and providing access to such Confidential Information as well as the reasonable cost for any support provided in connection with the Disclosing Party seeking a protective order or confidential treatment for the Confidential Information to be produced.
+12. Additional Information about the Service
+(a)
+Administrative Controls
+: If your Zapier Account has owners, administrative, or super administrative users, you understand and agree that such users may be able to access, modify, and/or delete (as applicable) your Customer Content, and other data contained in your Zapier Account, as described in the Documentation, particularly this article.
+(b)
+Location of the Service
+: Zapier operates or controls the operation of the Service from a cloud service located in the United States. In addition, the Service and Customer Content may be accessed, mirrored, and/or managed from various locations outside the United States.
+(c)
+Zapier Extended Team
+: The Zapier extended team, which includes our workforce and our affiliates' workforce (the "Zapier Extended Team"), may assist us in exercising our rights and performing our obligations under these Terms. The Zapier Extended Team does not include any Third-Party Services or their personnel. We will be responsible for the Zapier Extended Team’s compliance with our obligations under these Terms.
+(d)
+Beta Release
+: Zapier may offer optional Beta Releases. Zapier may terminate or you may cease your use of Beta Releases at any time and for any reason. Beta Releases may be inoperable, incomplete, or include features never released. Notwithstanding anything else in these Terms, Zapier offers no warranty, indemnity, or support for Beta Releases. Information regarding a private Beta Release shared with you constitutes Zapier’s Confidential Information under Section 11 above. Certain Beta Releases may include Supplemental Terms which apply in addition to these Terms. In the event of a conflict between these Terms and the Supplemental Terms, the Supplemental Terms shall govern for that specific Beta Release.
+(e)
+EU Data Act
+: This Section applies to you only if you are subject to Regulation (EU) 2023/2854 (the “EU Data Act”). During your Subscription Term: (i) if your Subscription Term is monthly, you may terminate your Zapier Account following the process described in Section 3(f) above, and once you have exported your Customer Content, delete your Zapier Account, and (ii) if your Subscription Term is annual, then you may terminate your Zapier Account by providing a notice under the EU Data Act to Zapier Support, and once you have exported your Customer Content, delete your Zapier Account. Prior to deleting your Zapier Account, you may access, export, and delete your Customer Content in connection with such termination of your Zapier Account and switch to a new provider by following the process described in
+Zapier’s Data Retention/Deletion/Export Schedule
+. Once you delete your Zapier Account, you no longer have access to export your Customer Content. You must pay any outstanding Fees covering the remainder of the Subscription Term as an early termination fee in connection with any termination under the EU Data Act. Zapier will not charge any other fees or penalties.
+13. Notices
+(a)
+Zapier Notice to You
+: Zapier may provide you with notices through the Service portal,
+Zapier’s Trust Center
+, or by electronic mail to your email address on record in your Zapier Account. You are responsible for ensuring that your contact information is both current and accurate in your Zapier Account.
+(b)
+Your Notice to Zapie
+r: If you have a dispute with Zapier, wish to provide a notice under these Terms, or become subject to insolvency or other similar legal proceedings, you must promptly send written notice to Zapier at:
+Zapier, Inc.
+548 Market St. #62411
+San Francisco, CA 94104-5401
+Attn: Legal
+14. Modifications to Terms
+Zapier may revise these Terms from time to time by posting a modified version of the Terms including their effective date. If we make material changes to the Terms, we will provide you with reasonable notice prior to the new Terms taking effect. By continuing to access or use the Service after the posting of any modified Terms, you agree to be bound by such modified Terms.
+15. General
+(a)
+Jury Trial Waiver
+:
+You acknowledge that by agreeing to these Terms, you and Zapier each waive the right to a trial by jury.
+(b)
+Class Action and Multi-Party Action Waiver
+: You acknowledge and agree that you may not bring any claim against Zapier as a plaintiff or class member in any purported class, collective, representative, multiple plaintiff, or similar proceeding ("Class Action"). You further agree you waive any right to participate in or be represented in any Class Action or other representative action brought against Zapier.
+(c)
+Force Majeure
+: Neither party will be liable for failure or delay in performance due to events beyond its reasonable control including denial-of-service attacks, third-party hosting or utility provider failures, strikes, shortages, riots, fires, acts of God, war, terrorism, and governmental action.
+(d)
+Assignment
+: Neither party may assign these Terms without the prior consent of the other party, except that either party may assign these Terms, with notice to the other party, in connection with the assigning party’s merger, reorganization, acquisition or other transfer of all or substantially all of its assets or voting securities, provided that the assignee agrees to be bound by these Terms. Any non-permitted assignment or your assignment to a Zapier competitor is null and void.
+(e)
+Severability
+: Waiver: If any provision of these Terms is held to be invalid or unenforceable, the remaining portions will remain in full force and effect and such provision will be enforced to the maximum extent possible so as to effect the intent of the parties and will be reformed to the extent necessary to make such provision valid and enforceable. No waiver of rights by either party may be implied from any actions or failures to enforce rights under these Terms.
+(f)
+No Third-Party Beneficiaries
+: These Terms do not create any right in favor of any third party.
+(g)
+Governing Law; Jurisdiction
+: These Terms will be governed by and construed in accordance with the laws of the State of Delaware, without reference to its conflict of laws principles. All disputes arising out of or relating to these Terms will be submitted to the exclusive jurisdiction of a court of competent jurisdiction located in Wilmington, Delaware, and each party irrevocably consents to such personal jurisdiction and waives all objections to this venue.
+(h)
+Entire Agreement
+: These Terms and the policies expressly referenced and incorporated into these Terms constitute the entire agreement and understanding between the parties concerning the subject matter hereof. In the event of a conflict between these Terms and any terms displayed to you on Zapier’s product check-out page prior to purchasing the Service, the terms displayed on the check-out page shall govern with respect to any pricing, payment, or product-specific terms. Any different or additional terms that may be contained in (i) the form of purchase order; (ii) vendor registration form or registration portal; or (iii) other document used by you to place orders or otherwise effect transactions hereunder (excluding as applicable a Zapier order form or the check-out page), are hereby rejected and shall not be considered an amendment to these Terms. These Terms supersede all prior or contemporaneous discussions, proposals, and agreements between you and Zapier relating to the subject matter hereof.

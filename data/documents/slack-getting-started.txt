@@ -1,0 +1,137 @@
+Getting started
+Everything you need to know to get started and get to work in Slack.
+Getting Started
+Intro to Slack
+Get started: admins
+Get started: users
+Roles & permissions
+Using Slack
+Channels
+Direct messages
+Format & style messages
+Message features & tools
+Audio & video
+Share files & conversations
+Search in Slack
+Keyboard shortcuts & accessibility
+Get troubleshooting tips
+Your Profile
+Manage your account
+Adjust your notifications
+Change your settings & preferences
+Connect Tools
+Connect tools from the Slack App Directory
+Automate tasks with Workflow Builder
+Explore apps in the Slack App Directory
+Create custom apps
+Administration
+Manage members
+Manage channels
+Manage billing, payments & plans
+Workspace settings & permissions
+Workspace customization
+Enterprise Grid settings & permissions
+Manage apps & workflows
+Configure access & security
+Slack data & analytics
+Tutorials & videos
+Tutorials
+Videos
+Discover more
+Next
+Previous
+Actions,activity,access logs,accessibility,add,add an app,Add members,Add to Slack,administrators,all passwords,analytics,android,announcement,announcements,App Directory,app icon,Apple Watch,approving apps,archive,Asana,Atlassian,Automation apps,badge,billing details,billing,Bitbucket,bot user,box,browse,calls,Calls:,cancel,changes,channels,channel instantly,channel management,channel notification,channel suggestions,claim domains,close,company culture,compliance exports,compose,computers,conversations,convert,connect,connected accounts,connection,connecting,copy messages,create,customization,customize,custom SAML,custom,customer support teams,data exports,data security,deactivate,default channels,delete,deletion,deploy slack,desktop,direct messages,directory,disable,discover and join,Discovery APIs,display name,DMs,Do Not Disturb,domain,domains,downgrade,dropbox,duplicate accounts,edit,editing,education,email address,email,emoji,emoticons,Enterprise Grid,Enterprise Mobility Management,executives,export,failed payments,Fair Billing,faqs,finding,format,formatting,framework for apps,free trials,general,getting started,giphy,github integration,github organization,github,glossary,google apps,google calendar,google drive,guests,highlights,hipchat,human resources,IFTTT,import,Incoming WebHooks,integrations,ios,invite,IT teams,JIRA,join,Keep up,keyboard layout,keyboard shortcuts,Keychain Access,keyword notifications,language,languages,leave,link previews,loading,limits,links,linux,mac,manage a workspace,manage apps,manage members,marketing,mention,merge,message actions,messages are displayed,message display,microsoft products,mobile,mobile push,move channels,moving workspaces,multiple,mute,name,names,noise,nonprofits,notify,OneDrive,onboard,owners,password,payment,payments,permissions,phones,pin,plan,plans,plus plan,polls,primary ownership,privacy policies,prioritize tasks,private,private channel,private notes and files,project management,public channel,purpose,Quick Switcher,quote,reactivate,read,recruitment,referrer information,reminder,remove,rename,retention,Request a new workspace,role,roles,RSS,sales,Salesforce,SAML,SCIM,SCIM provisioning,screen reader,search,send,session duration,share messages,share,shared channel,shared channels,sidebar,sign in,sign out,signup mode,single sign-on,Slack Day,Slack for Teams,Slack notifications,Save notes and files,Service Level Agreements,ServiceNow,sign up,slack status,slackbot,slash commands,snippet,snooze,software developers,star,statistics,Stride,sync,tablets,tax,threads,time zone,tips,to-do lists,topic,triage channels,Terms of Service,Trello,troubleshoot,trouble receiving,tour,twitter,two-factor authentication,unread messages,updates,upgrade,upload,username,user groups,URL,vacation,Vendor and remittance,video,voice call,voice,what is,what's important,whitelisting,windows phone,windows,working in,workspace apps,workspace creation requests,workspace discovery,workspace's settings,wunderlist,your actions,Zapier,zoom,features,#general,File storage,posts,dark mode,theme,Workflow Builder,Voice,video,screen sharing,workflows,Outlook Calendar,Invited members,Transfer ownership,Whitelist,Enterprise Key Management,Transport Layer Security,Strong customer authentication,CSV,text file,work hours,
+Search for “[term]”
+See [n]+ more results →
+Slack Help Center
+Getting started
+Getting started for new users
+Getting started for new Slack users
+Getting started for new Slack users
+A Slack workspace is a single place for your team and your work. If you’ve recently joined one, this guide will help you get set up in Slack so you can get started. Before you dive in, make sure you’ve
+downloaded the desktop app
+and you’re able to
+sign in to your workspace
+.
+1. Fill out your profile
+Your
+profile
+will help the others you work with in Slack know who you are.
+From your desktop, click the default profile picture in the bottom left.
+Click
+Profile
+from the menu, then click
+Edit profile
+.
+Let people know what you do and
+add a profile photo
+.
+Click
+Save Changes
+.
+2. Configure your notifications
+Your
+notifications in Slack
+will alert you of activity in your workspace. You can decide what messages will trigger notifications for you and set other details from your preferences.
+From your desktop, click your profile picture in the bottom left.
+Select
+Preferences
+from the menu to open your notification preferences.
+Choose the activity you’d like to get notified about, then configure any additional notification preferences you’d like.
+Visit
+Configure your Slack notifications
+to learn about all of the available notification preferences in Slack.
+3. Learn how to send messages
+In Slack, you can send messages to other people you work with. If you need to communicate with a group of people, send a message in a
+channel
+. To have a one-to-one conversation with someone, send them a
+direct message
+.
+From your desktop, click the
+plus button
+in the sidebar.
+Choose a conversation to send your message.
+Type your message and add any attachments, emoji, mentions, or formatting you’d like.
+Press
+Enter
+to send your message. Or click the
+arrow icon
+(next to the
+paper plane icon
+) to schedule it for later.
+Visit
+Find and start conversations in Slack
+to learn more about sending messages.
+Note:
+If you’ve been invited to a workspace as a
+guest
+, you can only send messages in channels you have access to, and DM people in the same channels as you.
+4. Learn about other Slack features
+Now that you’re set up in Slack, you’re ready to get started and explore other features.
+Visit
+How to use Slack: your quick start guide
+for an overview of the basics.
+Explore our
+tutorials
+and
+videos
+to learn how to work in Slack.
+Use the keyboard shortcut
+F1
+to open
+Help
+in Slack and find answers quickly.
+Awesome!
+Thanks so much for your feedback!
+If you’d like a member of our support team to respond to you, please send a note to
+feedback@slack.com
+.
+Got it!
+If you’d like a member of our support team to respond to you, please send a note to
+feedback@slack.com
+.
+If you’d like a member of our support team to respond to you, please send a note to
+feedback@slack.com
+.
+Oops! We're having trouble. Please try again later!
+IN THIS ARTICLE

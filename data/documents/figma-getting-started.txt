@@ -1,0 +1,61 @@
+Before you start
+Who can use this feature
+Available on
+any team or plan
+There are three ways to register or authenticate your account in Figma: email address and unique password, Google SSO, and SAML SSO. Your sign up method will dictate whether you can update your email address and password in Figma.
+Email address and password
+If you signed up for Figma with your email address and a unique password, you can update both your email and password in your account settings.
+Note:
+If you no longer have access to the email address you used to create your Figma account, contact
+Figma Support
+for assistance.
+Open the file browser and click your profile in the top-left corner to open the account menu.
+Select
+Settings
+to open the settings modal.
+Select the
+Account
+tab to update your details
+Click
+Change email
+underneath your email address
+Click
+Change password
+to reset your password.
+Click
+Save
+to apply your changes.
+Google SSO
+When you sign up for Figma via Google SSO, your email address and password will be
+Managed by Google
+. This means that you won't be able to update your email address or password in Figma.
+If you want to change your Google email address or password, you will need to do this in your Google account. For detailed instructions, follow the Google Support links below:
+Change or reset your password
+Change your username or email address
+Switch from Google SSO to email and password
+If your email address and password are
+Managed by Google
+, you can't update them in Figma. If you want to change the email associated with your account, you'll need to remove Google SSO.
+To remove Google SSO, you need to request and set a new account password. This allows you log in with your email address and unique password. Once updated, you can change the email to any address.
+Log out of your Figma account.
+Visit the
+Figma website
+and click
+Log in
+in the top-right corner.
+Click the
+Reset password
+link.
+Follow the on-screen instructions to request a password reset email.
+Click the link in your password reset email. Figma will prompt you to enter a new password.
+When you next go to log in, you can log in via your gmail address and your new password.
+If you want to change the email address associated with your account, you can now
+update your email address in Figma.
+SAML SSO
+If you log in to Figma with your company email address via SAML SSO, y
+our organization's
+identity provider
+will manage your login details.
+We recommend contacting your IT department, or an organization admin, for help updating your email address or password there. You can still
+update your name and profile picture
+in Figma.
